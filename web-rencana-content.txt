@@ -1,6 +1,9 @@
 RNCANA FITUR
 
 -hapus
+-makan
+-minum
+  ^esteh
 -tambah
 -delete
 -update
